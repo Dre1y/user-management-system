@@ -1,0 +1,6 @@
+# dependencies
+yarn.lock
+/node_modules
+
+# db
+db.js
